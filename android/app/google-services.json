@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529982032829",
+    "project_id": "personal-assistant-app-3917a",
+    "storage_bucket": "personal-assistant-app-3917a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529982032829:android:01e399c259caf95cc4e0d4",
+        "android_client_info": {
+          "package_name": "com.example.personal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529982032829-i8alaf0qqtdi7ivpublmdsbfeh0uqp3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personal_app",
+            "certificate_hash": "753751ba8312439a982541d5dd28f8d6d1e6b5d1"
+          }
+        },
+        {
+          "client_id": "529982032829-oq44a037aqoqq93l4isl6gborpc71no2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJfdm80dF_cLxuQQEQPERlTaj6sEQsf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529982032829-f6b9k9pvnbbsmgj6e39870q84t227otm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
